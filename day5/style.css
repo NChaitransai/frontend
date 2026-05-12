@@ -58,7 +58,7 @@ body{
 }
 
 .menu a:hover{
-    color:#2eff3b;
+    color:#afff2e;
 }
 
 /* ================= HERO ================= */
@@ -81,7 +81,7 @@ body{
 }
 
 .hero-text span{
-    color:#2eff3b;
+    color:#b9ff2e;
 }
 
 .hero-text h2{
@@ -90,7 +90,7 @@ body{
 }
 
 .hero-text p{
-    color:#ccc;
+    color:#cccccc;
     line-height:30px;
     margin-bottom:30px;
 }
